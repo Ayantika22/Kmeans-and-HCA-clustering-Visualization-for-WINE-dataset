@@ -32,6 +32,6 @@ Citing the paper(if referred) is mandatory since the paper has copyrights.
 # Enjoy Coding
 
 Kmeans Cluster
-![alt text]()
+![alt text](https://github.com/Ayantika22/Kmeans-and-HCA-clustering-Visualization-for-WINE-dataset/blob/master/image.png)
 
 ![alt text](https://github.com/Ayantika22/Kmeans-and-HCA-clustering-Visualization-for-WINE-dataset/blob/master/hca_wine.png)
