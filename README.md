@@ -11,7 +11,7 @@ Requirements
 
 4. sklearn
 
-5. Iris dataset
+5. Wine dataset
 
 This Program is About Kmeans and HCA CLustering analysis of wine dataset.
 
